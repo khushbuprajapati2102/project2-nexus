@@ -218,7 +218,7 @@ img {
 
 /*=============== HOME ===============*/
 .home {
-  background-image: url(../img/home-bg.jpg);
+  background-image: url(home-bg.jpg);
   padding-block: 10.5rem 3.25rem;
   position: relative;
 }
@@ -929,7 +929,7 @@ img {
 
 /*=============== FOOTER ===============*/
 .footer {
-  background-image: url(../img/footer-bg.jpg);
+  background-image: url(footer-bg.jpg);
 }
 
 .footer__container {
